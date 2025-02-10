@@ -1,0 +1,16 @@
+#Courses {
+    text-transform: capitalize;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: Proxima Nova;
+    color:black;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    border: 1px solid;
+    
+    }
+#Courses::before {
+    content: 👨‍💻;
+
+}
